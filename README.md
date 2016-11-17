@@ -15,7 +15,7 @@ Load imagebrowser.js script after initializing Angular application and controlle
 ```
 
 ### Usage
-Add custom element to html:
+Add custom element to html.
 ```html
 <image-browser image-list="arrayOfImgUrls" 
   heading="aString" text="anotherString">            
