@@ -4,7 +4,7 @@ Angular directive for browsing an array of images.
 ### Files
 imagebrowser.js - Angular directive
 
-imagebrowser.html - Html tempale
+imagebrowser.html - Html template
 
 ### Installation
 Put imagebrowser.html in site root.
