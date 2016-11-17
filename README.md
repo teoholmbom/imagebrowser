@@ -2,11 +2,13 @@
 Angular directive for browsing an array of images.
 
 ### Files
-Directive - imagebrowser.js
-Template - imagebrowser.html
+Angular directive - imagebrowser.js
+
+Html template - imagebrowser.html
 
 ### Installation
 Download and add files to project.
+
 Load imagebrowser.js script after initializing Angular application and controller.
 
 ### Usage
